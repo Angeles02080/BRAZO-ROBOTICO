@@ -12,6 +12,6 @@ Los brazos robóticos se pueden clasificar de acuerdo con el número de "articul
   -El "Hombro" es el responsable de "levantar o bajar" el brazo verticalmente
   -El "codo" hará que el brazo "avance o retroceda".
   -La "Garra" o "Pinza" funciona abriendo o cerrándose para "agarrar cosas".
-  ![Alt text](relative/path/to/img.jpg?raw=true "resultado brazoo")
+  ![Alt text](relative/path/to/img.jpg?raw=true "resultado brazoo.jpg")
  
 
